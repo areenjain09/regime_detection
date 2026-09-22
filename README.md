@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # S&P 500 Risk and Regime Analysis
 
 This project analyzes S&P 500 market regimes and evaluates risk-off forecasts using several machine-learning and statistical models.
@@ -30,3 +31,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
+=======
+# regime_detection
+>>>>>>> eef68910e07e8241ab6cc538995a8fcf7d433368
